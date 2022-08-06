@@ -1,0 +1,338 @@
+[
+ {
+  "amt": "-162.01",
+  "currency": "USD",
+  "name": "SAGRADA FAMILIA WEB B2C",
+  "posted": "20220606120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "158",
+  "currency": "USD",
+  "name": "Payment Thank You-Mobile",
+  "posted": "20220708120000.000[0:GMT]",
+  "transactionType": "CREDIT"
+ },
+ {
+  "amt": "-91.71",
+  "currency": "USD",
+  "name": "PURCHASE INTEREST CHARGE",
+  "posted": "20220511120000.000[0:GMT]",
+  "transactionType": "FEE"
+ },
+ {
+  "amt": "-149",
+  "currency": "USD",
+  "name": "DELTA AIR   UPGRADE",
+  "posted": "20220530120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "137",
+  "currency": "USD",
+  "name": "Payment Thank You-Mobile",
+  "posted": "20220606120000.000[0:GMT]",
+  "transactionType": "CREDIT"
+ },
+ {
+  "amt": "-43.54",
+  "currency": "USD",
+  "name": "LINKEDIN-701*2566156",
+  "posted": "20220607120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-149",
+  "currency": "USD",
+  "name": "DELTA AIR   UPGRADE",
+  "posted": "20220530120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-184.27",
+  "currency": "USD",
+  "name": "AIRBNB * HMPQC4MN45",
+  "posted": "20220607120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-2.1",
+  "currency": "USD",
+  "name": "CLESS TICKET ATM MILANO",
+  "posted": "20220616120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-10.99",
+  "currency": "USD",
+  "name": "APPLE.COM/BILL",
+  "posted": "20220428120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-35.97",
+  "currency": "USD",
+  "name": "SHADOW",
+  "posted": "20220710120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-0.99",
+  "currency": "USD",
+  "name": "APPLE.COM/BILL",
+  "posted": "20220415120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-43.54",
+  "currency": "USD",
+  "name": "LinkedIn 7834721644",
+  "posted": "20220508120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-12",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220612120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-7.63",
+  "currency": "USD",
+  "name": "HEROKU JUN-68249559",
+  "posted": "20220713120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-102.99",
+  "currency": "USD",
+  "name": "PURCHASE INTEREST CHARGE",
+  "posted": "20220610120000.000[0:GMT]",
+  "transactionType": "FEE"
+ },
+ {
+  "amt": "-35.97",
+  "currency": "USD",
+  "name": "SHADOW",
+  "posted": "20220510120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-57.25",
+  "currency": "USD",
+  "name": "MISFITS MARKET",
+  "posted": "20220628120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-7.63",
+  "currency": "USD",
+  "name": "HEROKU APR-65422747",
+  "posted": "20220510120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-28.88",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220720120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-7.63",
+  "currency": "USD",
+  "name": "HEROKU MAY-66829997",
+  "posted": "20220614120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-14.67",
+  "currency": "USD",
+  "name": "APPLE.COM/BILL",
+  "posted": "20220420120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-8.7",
+  "currency": "USD",
+  "name": "APPLE.COM/BILL",
+  "posted": "20220427120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-5.43",
+  "currency": "USD",
+  "name": "APPLE.COM/BILL",
+  "posted": "20220427120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-0.06",
+  "currency": "USD",
+  "name": "FOREIGN TRANSACTION FEE",
+  "posted": "20220616120000.000[0:GMT]",
+  "transactionType": "FEE"
+ },
+ {
+  "amt": "-35.97",
+  "currency": "USD",
+  "name": "SHADOW",
+  "posted": "20220610120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-88.95",
+  "currency": "USD",
+  "name": "FANDANGO",
+  "posted": "20220424120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-15.2",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220704120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-117.8",
+  "currency": "USD",
+  "name": "PURCHASE INTEREST CHARGE",
+  "posted": "20220711120000.000[0:GMT]",
+  "transactionType": "FEE"
+ },
+ {
+  "amt": "-42",
+  "currency": "USD",
+  "name": "SEAMLSSGRETACOFFEEKIT",
+  "posted": "20220529120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-13.99",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220705120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-19.25",
+  "currency": "USD",
+  "name": "NYTIMES",
+  "posted": "20220502120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-43.54",
+  "currency": "USD",
+  "name": "LinkedIn 7144939636",
+  "posted": "20220707120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-35",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220512120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-10",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220630120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-107.79",
+  "currency": "USD",
+  "name": "Patagonia 20219",
+  "posted": "20220601120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-20",
+  "currency": "USD",
+  "name": "NYTIMES",
+  "posted": "20220627120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-100",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220630120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-39.58",
+  "currency": "USD",
+  "name": "MISFITS MARKET",
+  "posted": "20220719120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-9.17",
+  "currency": "USD",
+  "name": "Amazon web services",
+  "posted": "20220703120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "300",
+  "currency": "USD",
+  "name": "Payment Thank You-Mobile",
+  "posted": "20220501120000.000[0:GMT]",
+  "transactionType": "CREDIT"
+ },
+ {
+  "amt": "-7.5",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220719120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-13.99",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220605120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-7.63",
+  "currency": "USD",
+  "name": "HEROKU MAR-64032293",
+  "posted": "20220412120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-20",
+  "currency": "USD",
+  "name": "NYTIMES",
+  "posted": "20220530120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-15.2",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220605120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-25",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220515120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ },
+ {
+  "amt": "-15",
+  "currency": "USD",
+  "name": "ONLYFANS.COM",
+  "posted": "20220515120000.000[0:GMT]",
+  "transactionType": "DEBIT"
+ }
+]

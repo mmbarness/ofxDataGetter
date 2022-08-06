@@ -1,0 +1,4 @@
+csvs/balances/*
+csvs/transactions/*
+configs/*
+*.code-workspace
